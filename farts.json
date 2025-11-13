@@ -437,5 +437,15 @@
     "deviceId": "262954cd-f4f1-4c32-87af-f2f20f8778f9",
     "username": "Paul(it was wet) Waldron",
     "description": "Bad one! Blamed the dog"
+  },
+  {
+    "hexLat": "514352",
+    "hexLng": "-c1954",
+    "accuracy": 9.595156523295483,
+    "source": "gps",
+    "ts": "2025-11-13T19:56:39.639Z",
+    "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
+    "username": "Ryan Tubridy RTE",
+    "description": "On the jacks watching the Ronaldo game #COYBIG"
   }
 ]
