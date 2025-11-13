@@ -357,5 +357,15 @@
     "deviceId": "262954cd-f4f1-4c32-87af-f2f20f8778f9",
     "username": "Paul(it was wet) Waldron",
     "description": "It was one of those squeezers that zip out off you. Quick but effective"
+  },
+  {
+    "hexLat": "5183e8",
+    "hexLng": "-c1b7c",
+    "accuracy": 35,
+    "source": "gps",
+    "ts": "2025-11-13T17:24:26.703Z",
+    "deviceId": "ff82f3de-5158-4e83-af67-85cafd61b40d",
+    "username": "Emma Coleman ",
+    "description": null
   }
 ]
