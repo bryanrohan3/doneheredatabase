@@ -256,5 +256,14 @@
     "ts": "2025-11-13T13:22:10.357Z",
     "deviceId": "262954cd-f4f1-4c32-87af-f2f20f8778f9",
     "username": "WindyBumBard66"
+  },
+  {
+    "hexLat": "5183e5",
+    "hexLng": "-c1b62",
+    "accuracy": 35,
+    "source": "gps",
+    "ts": "2025-11-13T13:22:54.497Z",
+    "deviceId": "ff82f3de-5158-4e83-af67-85cafd61b40d",
+    "username": "BubblyButtBard95"
   }
 ]
