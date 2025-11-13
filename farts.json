@@ -301,5 +301,14 @@
     "ts": "2025-11-13T14:11:00.749Z",
     "deviceId": "ff82f3de-5158-4e83-af67-85cafd61b40d",
     "username": "Emma Coleman "
+  },
+  {
+    "hexLat": "5157b0",
+    "hexLng": "-a19b4",
+    "accuracy": 100,
+    "source": "gps",
+    "ts": "2025-11-13T14:51:19.962Z",
+    "deviceId": "6c9e1c98-bc17-4fd0-9bb3-4124d94f548e",
+    "username": "StealthyBumBard66"
   }
 ]
