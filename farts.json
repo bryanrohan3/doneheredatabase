@@ -229,14 +229,5 @@
     "accuracy": 16.439667948140453,
     "source": "gps",
     "ts": "2025-11-13T12:44:55.922Z"
-  },
-  {
-    "hexLat": "515da2",
-    "hexLng": "-c107d",
-    "accuracy": 7.178114453044239,
-    "source": "gps",
-    "ts": "2025-11-13T12:59:22.210Z",
-    "deviceId": "9aa5d4c7-b764-4996-bb7c-a14acd5147cf",
-    "username": "FartGoblin42"
   }
 ]
