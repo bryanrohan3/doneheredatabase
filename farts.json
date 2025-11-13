@@ -166,5 +166,12 @@
     "accuracy": 10000,
     "source": "ip",
     "ts": "2025-11-13T10:28:29.144Z"
+  },
+  {
+    "hexLat": "5183ee",
+    "hexLng": "-c1cfa",
+    "accuracy": 10000,
+    "source": "ip",
+    "ts": "2025-11-13T10:28:33.611Z"
   }
 ]
