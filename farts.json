@@ -487,5 +487,15 @@
     "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
     "username": "Ryan Tubridy RTE",
     "description": null
+  },
+  {
+    "hexLat": "514352",
+    "hexLng": "-c1954",
+    "accuracy": 6.758514492991738,
+    "source": "gps",
+    "ts": "2025-11-13T22:09:03.400Z",
+    "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
+    "username": "Ryan Tubridy RTE",
+    "description": null
   }
 ]
