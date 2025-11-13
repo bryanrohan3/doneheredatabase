@@ -310,5 +310,14 @@
     "ts": "2025-11-13T14:51:19.962Z",
     "deviceId": "6c9e1c98-bc17-4fd0-9bb3-4124d94f548e",
     "username": "StealthyBumBard66"
+  },
+  {
+    "hexLat": "5157ae",
+    "hexLng": "-a19b2",
+    "accuracy": 15.593999862670898,
+    "source": "gps",
+    "ts": "2025-11-13T14:58:47.872Z",
+    "deviceId": "6c9e1c98-bc17-4fd0-9bb3-4124d94f548e",
+    "username": "The Fart Govnor"
   }
 ]
