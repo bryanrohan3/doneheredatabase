@@ -447,5 +447,15 @@
     "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
     "username": "Ryan Tubridy RTE",
     "description": "On the jacks watching the Ronaldo game #COYBIG"
+  },
+  {
+    "hexLat": "514352",
+    "hexLng": "-c1954",
+    "accuracy": 26.704446904661364,
+    "source": "gps",
+    "ts": "2025-11-13T20:21:15.944Z",
+    "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
+    "username": "Ryan Tubridy RTE",
+    "description": null
   }
 ]
