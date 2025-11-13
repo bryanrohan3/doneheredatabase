@@ -283,5 +283,14 @@
     "ts": "2025-11-13T13:46:49.238Z",
     "deviceId": "262954cd-f4f1-4c32-87af-f2f20f8778f9",
     "username": "Paul(it was wet) Waldron"
+  },
+  {
+    "hexLat": "5183de",
+    "hexLng": "-c1b7e",
+    "accuracy": 18.239057969242193,
+    "source": "gps",
+    "ts": "2025-11-13T14:08:38.969Z",
+    "deviceId": "262954cd-f4f1-4c32-87af-f2f20f8778f9",
+    "username": "Paul(it was wet) Waldron"
   }
 ]
