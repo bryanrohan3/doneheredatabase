@@ -407,5 +407,15 @@
     "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
     "username": "Ryan Tubridy RTE",
     "description": "Ripped one in the studio lol"
+  },
+  {
+    "hexLat": "514344",
+    "hexLng": "-c1952",
+    "accuracy": 11.285368337006956,
+    "source": "gps",
+    "ts": "2025-11-13T19:46:13.056Z",
+    "deviceId": "262954cd-f4f1-4c32-87af-f2f20f8778f9",
+    "username": "Paul(it was wet) Waldron",
+    "description": "Thought I followed through for a second"
   }
 ]
