@@ -517,5 +517,15 @@
     "deviceId": "f55f66d5-ad6b-4d24-b680-9a7327374ed0",
     "username": "TinyBumBard59",
     "description": null
+  },
+  {
+    "hexLat": "517fc1",
+    "hexLng": "-c0b6b",
+    "accuracy": 23.540440378295667,
+    "source": "gps",
+    "ts": "2025-11-13T23:30:04.866Z",
+    "deviceId": "8c71bc0a-5cc1-40bb-a0ba-3671db4dc898",
+    "username": "SilentTooter21",
+    "description": null
   }
 ]
