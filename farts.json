@@ -367,5 +367,15 @@
     "deviceId": "ff82f3de-5158-4e83-af67-85cafd61b40d",
     "username": "Emma Coleman ",
     "description": null
+  },
+  {
+    "hexLat": "5183e6",
+    "hexLng": "-c1b72",
+    "accuracy": 35,
+    "source": "gps",
+    "ts": "2025-11-13T17:30:13.247Z",
+    "deviceId": "ff82f3de-5158-4e83-af67-85cafd61b40d",
+    "username": "Emma Coleman ",
+    "description": "On Colin’s face"
   }
 ]
