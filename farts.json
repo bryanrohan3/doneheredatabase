@@ -417,5 +417,15 @@
     "deviceId": "262954cd-f4f1-4c32-87af-f2f20f8778f9",
     "username": "Paul(it was wet) Waldron",
     "description": "Thought I followed through for a second"
+  },
+  {
+    "hexLat": "514352",
+    "hexLng": "-c1954",
+    "accuracy": 20.031317533497308,
+    "source": "gps",
+    "ts": "2025-11-13T19:54:33.070Z",
+    "deviceId": "25f5fec4-f971-488b-9aca-6cc30e2f8e4b",
+    "username": "ExplosiveStinkMage34",
+    "description": "bad curry dinner"
   }
 ]
