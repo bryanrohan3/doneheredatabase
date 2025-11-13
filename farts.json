@@ -497,5 +497,15 @@
     "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
     "username": "Ryan Tubridy RTE",
     "description": null
+  },
+  {
+    "hexLat": "517fba",
+    "hexLng": "-c0b5a",
+    "accuracy": 34.62928849054038,
+    "source": "gps",
+    "ts": "2025-11-13T23:21:43.241Z",
+    "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
+    "username": "Ryan Tubridy RTE",
+    "description": "McDonalds Fart"
   }
 ]
