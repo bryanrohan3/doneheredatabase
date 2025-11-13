@@ -467,5 +467,15 @@
     "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
     "username": "Ryan Tubridy RTE",
     "description": "Silent lol"
+  },
+  {
+    "hexLat": "514343",
+    "hexLng": "-c1953",
+    "accuracy": 10.44314150022501,
+    "source": "gps",
+    "ts": "2025-11-13T21:27:34.253Z",
+    "deviceId": "262954cd-f4f1-4c32-87af-f2f20f8778f9",
+    "username": "Paul(it was wet) Waldron",
+    "description": "Was slimey enough tbf"
   }
 ]
