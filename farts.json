@@ -397,5 +397,15 @@
     "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
     "username": "WindyStinkMage24",
     "description": "Big fatty"
+  },
+  {
+    "hexLat": "514352",
+    "hexLng": "-c1954",
+    "accuracy": 17.41044827151738,
+    "source": "gps",
+    "ts": "2025-11-13T19:43:30.663Z",
+    "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
+    "username": "Ryan Tubridy RTE",
+    "description": "Ripped one in the studio lol"
   }
 ]
