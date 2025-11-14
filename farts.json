@@ -637,5 +637,15 @@
     "deviceId": "8c71bc0a-5cc1-40bb-a0ba-3671db4dc898",
     "username": "Anal destroyer 🥹",
     "description": null
+  },
+  {
+    "hexLat": "517111",
+    "hexLng": "-a1343",
+    "accuracy": 6.2910077260823245,
+    "source": "gps",
+    "ts": "2025-11-14T01:07:01.704Z",
+    "deviceId": "44021583-f9f6-4e94-b75e-4865aab5afbf",
+    "username": "TinyStinkMage11",
+    "description": null
   }
 ]
