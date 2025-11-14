@@ -827,5 +827,15 @@
     "deviceId": "ee4f4222-9881-4506-8a27-54e5bab6c075",
     "username": "GassyCoco96",
     "description": "Wet"
+  },
+  {
+    "hexLat": "5165a0",
+    "hexLng": "-9808b",
+    "accuracy": 20.009925318899857,
+    "source": "gps",
+    "ts": "2025-11-14T23:37:35.606Z",
+    "deviceId": "ee4f4222-9881-4506-8a27-54e5bab6c075",
+    "username": "GassyCoco96",
+    "description": "Playful"
   }
 ]
