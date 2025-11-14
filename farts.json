@@ -707,5 +707,15 @@
     "deviceId": "ff82f3de-5158-4e83-af67-85cafd61b40d",
     "username": "Emma Coleman ",
     "description": "Pass through"
+  },
+  {
+    "hexLat": "518469",
+    "hexLng": "-c1905",
+    "accuracy": 25.99994468135758,
+    "source": "gps",
+    "ts": "2025-11-14T11:43:29.973Z",
+    "deviceId": "6d8237d7-3c36-47c2-9526-892860b6b0ee",
+    "username": "BubblyWindWizard15",
+    "description": "Wet with follow through"
   }
 ]
