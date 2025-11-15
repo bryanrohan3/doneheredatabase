@@ -877,5 +877,15 @@
     "deviceId": "ae1f7d2a-b00b-4d49-902a-593ea54aedf5",
     "username": "SmellyCloudMaker77",
     "description": null
+  },
+  {
+    "hexLat": "5198ae",
+    "hexLng": "-c10ce",
+    "accuracy": 3.525591440740556,
+    "source": "gps",
+    "ts": "2025-11-15T11:48:12.764Z",
+    "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
+    "username": "Ryan Tubridy RTE",
+    "description": null
   }
 ]
