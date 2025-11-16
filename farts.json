@@ -927,5 +927,15 @@
     "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
     "username": "Ryan Tubridy RTE",
     "description": "so basically it started as a fart and now it’s just shitty mush"
+  },
+  {
+    "hexLat": "51433d",
+    "hexLng": "-c0ba4",
+    "accuracy": 19.969589004203492,
+    "source": "gps",
+    "ts": "2025-11-16T00:11:17.362Z",
+    "deviceId": "fd5302d1-9d6d-49b9-83f0-a1549a63bfe1",
+    "username": "Erectile disfunction conor",
+    "description": "Soft"
   }
 ]
