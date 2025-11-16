@@ -957,5 +957,15 @@
     "deviceId": "683877de-9e07-4e24-a754-8618d92feb64",
     "username": "Ryan Tubridy RTE",
     "description": null
+  },
+  {
+    "hexLat": "514341",
+    "hexLng": "-c0b9a",
+    "accuracy": 19.97662052131757,
+    "source": "gps",
+    "ts": "2025-11-16T01:49:22.548Z",
+    "deviceId": "fd5302d1-9d6d-49b9-83f0-a1549a63bfe1",
+    "username": "Erectile disfunction conor",
+    "description": "Hard fart"
   }
 ]
